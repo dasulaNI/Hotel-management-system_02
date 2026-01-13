@@ -10,7 +10,7 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.GregorianCalendar;
 import java.util.Random;
-import javax.swing.text.JTextComponent;
+import javax.swing.text.JTextComponent; 
 
 public class AddStaffPanel extends JPanel {
 
